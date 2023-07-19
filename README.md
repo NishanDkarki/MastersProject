@@ -8,17 +8,17 @@ To run the code in this project using Google Colab, follow these steps:
 4. Run the notebook to display output.
 
 # Libraries required
-!pip install pandas numpy seaborn matplotlib mlxtend
-from sklearn.preprocessing import Normalizer
-from sklearn.cluster import KMeans
-from sklearn.metrics import accuracy_score, confusion_matrix
-from sklearn.decomposition import PCA
-import pandas as pd
-import numpy as np
-import seaborn as sns
-import matplotlib.pyplot as plt
-from adjustText import adjust_text
-from collections import Counter
+!pip install pandas numpy seaborn matplotlib mlxtend<br>
+from sklearn.preprocessing import Normalizer<br>
+from sklearn.cluster import KMeans<br>
+from sklearn.metrics import accuracy_score, confusion_matrix<br>
+from sklearn.decomposition import PCA<br>
+import pandas as pd<br>
+import numpy as np<br>
+import seaborn as sns<br>
+import matplotlib.pyplot as plt<br>
+from adjustText import adjust_text<br>
+from collections import Counter<br>
 
 # Masters Project Overview
 This project is a part of the Masters Project for Baylor University. This project analyzes hormone and immune biomarkers to predict future drinking patterns for Non Human Primates (NHPs)
